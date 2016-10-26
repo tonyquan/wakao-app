@@ -74,3 +74,4 @@ App里也引用很多优秀的开源项目里的代码。
 
 [SlideMenu](https://github.com/TangKe/SlideMenu)
 
+it just a test~
