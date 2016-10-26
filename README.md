@@ -1,4 +1,4 @@
-哇靠百科 
+﻿哇靠百科 
 =========
 	关于作者：[yongbo](http://blog.wakao.me), 一个爱好移动App的前端工程师。  
 	这是一个完整Android App开发示例，希望可以给初学Android开发的童鞋有所帮助。
@@ -75,3 +75,4 @@ App里也引用很多优秀的开源项目里的代码。
 [SlideMenu](https://github.com/TangKe/SlideMenu)
 
 it just a test~
+创建第一个分支
